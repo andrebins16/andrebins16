@@ -1,5 +1,4 @@
 
-Hi, I’m Marcos a Computer Science student at PUCRS.
 
 
 
